@@ -1,0 +1,1 @@
+My Microsoft Excel expired, so I wrote this software to keep track of my cash.
